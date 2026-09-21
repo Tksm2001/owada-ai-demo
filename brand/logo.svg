@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 200" width="600" height="200" role="img" aria-label="大和田建設 ロゴ">
+<path d="M22 84 L100 28 L178 84" fill="none" stroke="#e8752a" stroke-width="17" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="91" y="56" width="18" height="44" rx="2" fill="#0f3d5c"/>
+<rect x="44" y="92" width="112" height="18" rx="2" fill="#0f3d5c"/>
+<path d="M100 104 L52 172" stroke="#0f3d5c" stroke-width="24" stroke-linecap="square"/>
+<path d="M100 104 L148 172" stroke="#0f3d5c" stroke-width="24" stroke-linecap="square"/>
+<text x="215" y="112" font-family="'Zen Kaku Gothic New','BIZ UDPGothic','Hiragino Sans','Yu Gothic UI',sans-serif" font-weight="900" font-size="64" fill="#0f3d5c" letter-spacing="3">大和田建設</text>
+<text x="218" y="150" font-family="'Zen Kaku Gothic New','BIZ UDPGothic','Hiragino Sans','Yu Gothic UI',sans-serif" font-weight="700" font-size="17" fill="#7c8189" letter-spacing="7">OWADA CONSTRUCTION</text>
+</svg>
